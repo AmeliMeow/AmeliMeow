@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Amelia Mae (@AmeliMeow)
-- 👀 I’m interested in Web dev, digital electronics and more...
-- 🌱 I’m currently learning Web dev
+- 👋 Hi, I’m Amelija Mae (@AmeliMeow)
+- 👀 I’m interested in web dev, digital electronics and more...
+- 🌱 I’m currently learning web dev
 
 <!---
 AmeliMeow/AmeliMeow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
