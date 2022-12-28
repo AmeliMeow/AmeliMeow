@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amelija Mae (@AmeliMeow).
 - 👀 I’m interested in developing web applications.
-- 🤖 As a hobby I sometimes work on digital electronics.
+- 🤖 As a hobby I sometimes tinker with electronics.
 - 🌱 I’m currently learning ReactJS, Tailwindcss.
 
 <!---
